@@ -1,10 +1,11 @@
-# data-sec-ops-course
-A repository with material about Data and DevSecOps Course. 
+# Curso DataSecOps
+Repositório com os materiais para o curso de DataSecOps. 
+O uso das melhores práticas de DataOps com segurança em pipelines de CI/CD.
 
-## About this course
-This course help you to make a end to end data streaming pipeline using IaC, and CI/CD, with best Open Source Tools and techniques to make a architecture of streamming data and to solve simple data problems using apache Spark with Python and Scala API. 
+## Sobre o Curso
+Este curso ajuda você a fazer um pipeline de streaming de dados ponta a ponta usando IaC e CI / CD, com as melhores ferramentas e técnicas de código aberto para fazer uma arquitetura de streaming de dados e resolver problemas de dados simples usando apache Spark com a API em Python e Scala. 
 
-Some technologies that  we use in this course are:
+Algumas tecnologias que usamos neste curso são:
 * Terraform
 * Azure Cloud
 * Kubernetes
@@ -18,24 +19,24 @@ Some technologies that  we use in this course are:
 * Apache Superset
 * Apache Kafka
 * Hashicorp Vault
-* Scala, Rust and Python Programming Languages
+* Linguagens de programação como Scala, Rust e Python
 
-Obs.: Feel fre to clone or fork this repo and use materials to learning. 
+Obs.: Sinta-se à vontade para clonar ou fazer um fork este repositório e usar materiais para o aprendizado. 
 
-## Topics
-1. Our Case Study
-2. Introduction to Data Architeture
-3. Introduction to data pipelines
-4. Introduction to DevOps
-5. Introduction to DevSecOps
-6. Containers, Docker and Kubernetes
-7. Unit Tests and quality of code with Sonarcube
-8. Apache Kafka and Streaming
-9. Spark as Data Processing Tool
+## Tópicos
+1. Nosso estudo de caso
+2. Introdução à arquitetura de dados
+3. Introdução aos pipelines de dados
+4. Introdução ao DevOps
+5. Introdução ao DevSecOps
+6. Contêineres, Docker e Kubernetes
+7. Testes de unidade e qualidade de código com Sonarcube
+8. Apache Kafka e streaming
+9. Spark como ferramenta de processamento de dados
 10. Apache Superset
-11. All Together Now!! (IaC and CI/CD)
-12. Finishing
+11. All Together Now !! (IaC e CI / CD)
+12. Acabamento
 
-## References 
+## Referências 
 <TO DO> 
   
